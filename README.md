@@ -1,2 +1,2 @@
 # NaiveBayes-Implementation
-Implementation of Naive Bayes on self generated data and then on Iris data set separately!
+Implementation of Naive Bayes on self generated data and Iris data set separately.
